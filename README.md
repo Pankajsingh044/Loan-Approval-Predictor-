@@ -2,12 +2,10 @@
 
 ## Intern Details
 
-- Intern ID: **[FILL IN YOUR INTERN ID]**
-- Full Name: **[FILL IN YOUR NAME]**
-- Duration: **[FILL IN DURATION, e.g. 8 Weeks]**
-
-> ✏️ *Replace the three placeholders above with your actual details before submitting.*
-
+- Intern ID: **[CITS2516]**
+- Full Name: **[Pankaj Singh]**
+- Duration: **[8 Weeks]**
+  
 ## Project Scope
 
 This project builds an end-to-end machine learning pipeline that predicts
